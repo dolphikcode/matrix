@@ -1,2 +1,1 @@
-# matrix
-Data Workshop Matrix challenge
+# Data Workshop Matrix challenge
